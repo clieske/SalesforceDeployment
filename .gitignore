@@ -48,3 +48,13 @@ Thumbs.db
 *.mov
 *.wmv
 
+/Deployment/build/
+Deployment/Deployments-preparation/2020-06-07-JUL-MAN106/retrievePackage.cmd
+Deployment/Deployments-preparation/2020-07-06-JUL-MandFK/2020-07-06-JUL-MandFK/retrievePackage0.cmd
+Deployment/Deployments-preparation/2020-09-08-SEP-ABZautomgdriveLad/2020-09-08-SEP-ABZautomgdriveLad/retrievePackage.cmd
+Deployment/Deployments-preparation/2020-09-20-SEP-US0050/retrievePackage.cmd
+Deployment/Deployments-preparation/changesetsFile.options
+Deployment/Deployments-preparation/options.options
+Deployment/Deployments-preparation/retrievePackage.cmd
+Deployment/Deployments-preparation/targetChangesetNamesFile.options
+Deployment/Deployments-preparation/targetNamesFile.options
